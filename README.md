@@ -1,1 +1,3 @@
-# euler
+# Project Euler
+
+solutions
